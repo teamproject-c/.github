@@ -38,12 +38,6 @@ feature/* → develop → main
 
 작업은 Issue로 등록하고, PR과 팀원 리뷰를 거쳐 반영합니다.
 
-## 🔗 프로젝트 바로가기
-
-- [프로젝트 저장소](https://github.com/teamproject-c/teamproject-c)
-- [개발 브랜치](https://github.com/teamproject-c/teamproject-c/tree/develop)
-- [프로젝트 README](https://github.com/teamproject-c/teamproject-c/blob/develop/README.md)
-
 ---
 
 작은 커밋을 모아, 하나의 팀 포트폴리오를 완성합니다.
